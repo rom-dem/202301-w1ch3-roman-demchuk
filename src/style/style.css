@@ -1,0 +1,6 @@
+@import url("/node_modules/@fortawesome/fontawesome-free/css/all.min.css");
+
+html {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
